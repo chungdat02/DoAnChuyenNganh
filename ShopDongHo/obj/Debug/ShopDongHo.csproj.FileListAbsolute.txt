@@ -1,0 +1,576 @@
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\ShopDongHo.dll.config
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\ShopDongHo.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\ShopDongHo.pdb
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\csc.exe
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\csc.exe.config
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\csc.rsp
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\csi.exe
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\csi.exe.config
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\csi.rsp
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\System.AppContext.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\System.Collections.Immutable.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\System.Console.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\System.Globalization.Calendars.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\System.IO.Compression.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\System.IO.FileSystem.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\System.Net.Http.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\System.Net.Sockets.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\System.Reflection.Metadata.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\System.ValueTuple.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\System.Xml.XPath.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\vbc.exe
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\vbc.exe.config
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\vbc.rsp
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\VBCSCompiler.exe
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\roslyn\VBCSCompiler.exe.config
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\Antlr3.Runtime.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\EntityFramework.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\EntityFramework.SqlServer.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\Microsoft.Web.Infrastructure.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\Newtonsoft.Json.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\System.Web.Helpers.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\System.Web.Mvc.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\System.Web.Optimization.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\System.Web.Razor.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.Deployment.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.Razor.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\WebGrease.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\EntityFramework.xml
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\EntityFramework.SqlServer.xml
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\System.Web.Helpers.xml
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\System.Web.Mvc.xml
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\System.Web.Optimization.xml
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\System.Web.Razor.xml
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.xml
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.Deployment.xml
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.Razor.xml
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\Newtonsoft.Json.xml
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\Antlr3.Runtime.pdb
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\obj\Debug\ShopDongHo.csproj.CoreCompileInputs.cache
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\obj\Debug\ShopDongHo.csproj.CopyComplete
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\obj\Debug\ShopDongHo.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\obj\Debug\ShopDongHo.pdb
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\obj\Debug\ShopDongHo.csprojAssemblyReference.cache
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\Microsoft.Azure.DocumentDB.Core.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\System.Collections.Immutable.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\System.Threading.Tasks.Extensions.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\System.ValueTuple.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\Microsoft.Azure.DocumentDB.Core.xml
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\System.Collections.Immutable.xml
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\System.Threading.Tasks.Extensions.xml
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\System.ValueTuple.xml
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\DH19PM\2020-2021\HK-VI\DoAn1\DoAn\ShopDongHo\ShopDongHo\bin\Cosmos.CRTCompat.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\ShopDongHo.dll.config
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\ShopDongHo.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\ShopDongHo.pdb
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\csc.exe
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\csc.exe.config
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\csc.rsp
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\csi.exe
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\csi.exe.config
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\csi.rsp
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.AppContext.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Console.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.IO.Compression.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Net.Http.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.ValueTuple.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\vbc.exe
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\vbc.exe.config
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\vbc.rsp
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\VBCSCompiler.exe
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\Antlr3.Runtime.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\EntityFramework.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\EntityFramework.SqlServer.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\Microsoft.Azure.DocumentDB.Core.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\Newtonsoft.Json.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Collections.Immutable.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.ValueTuple.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.Helpers.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.Mvc.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.Optimization.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.Razor.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.Razor.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\WebGrease.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\EntityFramework.xml
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\EntityFramework.SqlServer.xml
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\Microsoft.Azure.DocumentDB.Core.xml
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Collections.Immutable.xml
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.ValueTuple.xml
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.Helpers.xml
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.Mvc.xml
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.Optimization.xml
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.Razor.xml
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.xml
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.Razor.xml
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\Newtonsoft.Json.xml
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\Antlr3.Runtime.pdb
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\obj\Debug\ShopDongHo.csproj.AssemblyReference.cache
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\obj\Debug\ShopDongHo.csproj.CoreCompileInputs.cache
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\obj\Debug\ShopDongHo.csproj.CopyComplete
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\obj\Debug\ShopDongHo.dll
+C:\Users\nhan2\OneDrive\Desktop\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\obj\Debug\ShopDongHo.pdb
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\Cosmos.CRTCompat.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\ShopDongHo.dll.config
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\ShopDongHo.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\ShopDongHo.pdb
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\csi.exe.config
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Console.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Net.Http.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\Antlr3.Runtime.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\EntityFramework.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\Microsoft.Azure.DocumentDB.Core.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.ValueTuple.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.Helpers.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.Mvc.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.Optimization.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.Razor.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\WebGrease.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\EntityFramework.xml
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\Microsoft.Azure.DocumentDB.Core.xml
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Collections.Immutable.xml
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.ValueTuple.xml
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.Helpers.xml
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.Mvc.xml
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.Optimization.xml
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.Razor.xml
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.xml
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\Antlr3.Runtime.pdb
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\obj\Debug\ShopDongHo.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\obj\Debug\ShopDongHo.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\obj\Debug\ShopDongHo.csproj.CopyComplete
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\obj\Debug\ShopDongHo.dll
+C:\Users\admin\Desktop\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\obj\Debug\ShopDongHo.pdb
+C:\Users\admin\Desktop\Cao Chung Đạt\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\obj\Debug\ShopDongHo.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Cao Chung Đạt\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\obj\Debug\ShopDongHo.csproj.CoreCompileInputs.cache
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\obj\Debug\ShopDongHo.csproj.AssemblyReference.cache
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\obj\Debug\ShopDongHo.csproj.CoreCompileInputs.cache
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\Cosmos.CRTCompat.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\ShopDongHo.dll.config
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\ShopDongHo.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\ShopDongHo.pdb
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\csc.exe
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\csc.exe.config
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\csc.rsp
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\csi.exe
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\csi.exe.config
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\csi.rsp
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.AppContext.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Console.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.IO.Compression.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Net.Http.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.ValueTuple.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\vbc.exe
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\vbc.exe.config
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\vbc.rsp
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\VBCSCompiler.exe
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\Antlr3.Runtime.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\EntityFramework.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\EntityFramework.SqlServer.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\Microsoft.Azure.DocumentDB.Core.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\Newtonsoft.Json.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Collections.Immutable.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.ValueTuple.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.Helpers.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.Mvc.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.Optimization.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.Razor.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.Razor.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\WebGrease.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\EntityFramework.xml
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\EntityFramework.SqlServer.xml
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\Microsoft.Azure.DocumentDB.Core.xml
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Collections.Immutable.xml
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.ValueTuple.xml
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.Helpers.xml
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.Mvc.xml
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.Optimization.xml
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.Razor.xml
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.xml
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.Razor.xml
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\Newtonsoft.Json.xml
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\Antlr3.Runtime.pdb
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\obj\Debug\ShopDongHo.csproj.CopyComplete
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\obj\Debug\ShopDongHo.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\obj\Debug\ShopDongHo.pdb
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\log4net.dll
+C:\Users\THANH THÚY\Downloads\caochungdat\ShopDongHo_ASPNet\ShopDongHo_ASPNet\ShopDongHo\ShopDongHo\bin\log4net.xml
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\Cosmos.CRTCompat.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\ShopDongHo.dll.config
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\ShopDongHo.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\ShopDongHo.pdb
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\csi.exe.config
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Console.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Net.Http.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\Antlr3.Runtime.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\EntityFramework.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\log4net.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\Microsoft.Azure.DocumentDB.Core.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.ValueTuple.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Web.Helpers.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Web.Mvc.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Web.Optimization.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Web.Razor.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\WebGrease.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\EntityFramework.xml
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\log4net.xml
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\Microsoft.Azure.DocumentDB.Core.xml
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Collections.Immutable.xml
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.ValueTuple.xml
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Web.Helpers.xml
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Web.Mvc.xml
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Web.Optimization.xml
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Web.Razor.xml
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.xml
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\Antlr3.Runtime.pdb
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\obj\Debug\ShopDongHo.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\obj\Debug\ShopDongHo.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\obj\Debug\ShopDongHo.csproj.CopyComplete
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\obj\Debug\ShopDongHo.dll
+C:\Users\admin\Desktop\ShopDongHo\ShopDongHo\ShopDongHo\obj\Debug\ShopDongHo.pdb
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\Cosmos.CRTCompat.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\ShopDongHo.dll.config
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\ShopDongHo.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\ShopDongHo.pdb
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\csc.exe
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\csc.exe.config
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\csc.rsp
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\csi.exe
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\csi.exe.config
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\csi.rsp
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.AppContext.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Console.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.IO.Compression.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Net.Http.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.ValueTuple.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\vbc.exe
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\vbc.exe.config
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\vbc.rsp
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\VBCSCompiler.exe
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\Antlr3.Runtime.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\EntityFramework.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\EntityFramework.SqlServer.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\log4net.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\Microsoft.Azure.DocumentDB.Core.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\Newtonsoft.Json.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Collections.Immutable.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.ValueTuple.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Web.Helpers.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Web.Mvc.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Web.Optimization.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Web.Razor.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.Razor.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\WebGrease.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\EntityFramework.xml
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\EntityFramework.SqlServer.xml
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\log4net.xml
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\Microsoft.Azure.DocumentDB.Core.xml
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Collections.Immutable.xml
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.ValueTuple.xml
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Web.Helpers.xml
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Web.Mvc.xml
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Web.Optimization.xml
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Web.Razor.xml
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.xml
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\System.Web.WebPages.Razor.xml
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\Newtonsoft.Json.xml
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\Antlr3.Runtime.pdb
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\obj\Debug\ShopDongHo.csproj.AssemblyReference.cache
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\obj\Debug\ShopDongHo.csproj.CoreCompileInputs.cache
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\obj\Debug\ShopDongHo.csproj.CopyComplete
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\obj\Debug\ShopDongHo.dll
+C:\Users\kddi\Desktop\File Copy 16-11-2023\ShopDongHo\ShopDongHo\ShopDongHo\obj\Debug\ShopDongHo.pdb
